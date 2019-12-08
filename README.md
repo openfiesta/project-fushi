@@ -2,7 +2,7 @@
 
 This project is about making AR affordable.\
 For that we focused mainly on the optical system.
-
+![](glasses.jpg)
 ## 3D-files
 
 The printable .stl-files are in this repo.\
