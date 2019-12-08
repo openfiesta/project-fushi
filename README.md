@@ -3,6 +3,7 @@
 This project is about making AR affordable.\
 For that we focused mainly on the optical system.
 ![](glasses.jpg){:height="50%" width="50%"}
+<img src="glasses.jpg" width="40%">
 ## 3D-files
 
 The printable .stl-files are in this repo.\
