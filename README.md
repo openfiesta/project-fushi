@@ -18,6 +18,10 @@ If you want to modify the files, you can do this easily in OnShape, since the we
 <img src="images/wire_holder.jpg" width="40%">\
 
 ## Components
+* LiPo 500mAh: 18.38rmb
+* Convex lens 40mm: 3.80rmb
+* Arduino Nano: 16rmb
+* LCD-15173 SparkFun Transparent OLED: 390rmb
 
 ## Contributing
 If you have a question, open an issue. Pull requests are welcome.
